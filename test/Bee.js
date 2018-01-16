@@ -1,4 +1,4 @@
-describe('Bee class functionality', function() {
+  describe('Bee class functionality', function() {
 
   verifyClass(Bee).followsPattern('pseudoclassical', {}, false);
 
