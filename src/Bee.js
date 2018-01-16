@@ -1,6 +1,7 @@
-var Bees = function(age) {
-    this.color = "yellow"
-    this.age = 5
-    this.food = jelly
+var Bee = function() {
+    this.color = "yellow";
+    this.age = 5;
+    this.food =  "jelly";
+    this.job = "keep on growing";
 };
- Bee.prototype.eat = function (){}
+ Bee.prototype.eat = function () {};
